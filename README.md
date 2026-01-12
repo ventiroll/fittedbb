@@ -1,1 +1,1 @@
-Hi! Readme here 
+Hi! This is fittedbb, a web app that is your own personal wardrobe! fittedbb keeps track of your uploaded pieces of clothing & can give you personal recommendations on outfit choices! (WIP)
